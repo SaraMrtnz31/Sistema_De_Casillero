@@ -1,0 +1,16 @@
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\bin\Debug\Sistema_De_Casillero.exe.config
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\bin\Debug\Sistema_De_Casillero.exe
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\bin\Debug\Sistema_De_Casillero.pdb
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.csproj.AssemblyReference.cache
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.Dashboard.resources
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.Properties.Resources.resources
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.csproj.GenerateResource.cache
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.csproj.CoreCompileInputs.cache
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.csproj.CopyComplete
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.exe
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.pdb
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.frmCategorias.resources
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.frmEstantes.resources
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.frmPaquetes.resources
+C:\Users\trued\source\repos\Sistema_De_Casillero\Sistema_De_Casillero\obj\Debug\Sistema_De_Casillero.frmUsuarios.resources
